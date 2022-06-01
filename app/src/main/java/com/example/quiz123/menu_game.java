@@ -22,7 +22,7 @@ public class menu_game extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        button1.setOnClickListener(new View.OnClickListener() {
+        button1.setO nClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent1 = new Intent(menu_game.this, pipicgame.class);

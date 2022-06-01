@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity  {
 
 
     CheckBox rem_userpass;
-    EditText edUsername, edPass;
+    EditText edUsername, edPass; 
     Button button;
     SharedPreferences sharedPreferences;
     SharedPreferences.Editor editor;
